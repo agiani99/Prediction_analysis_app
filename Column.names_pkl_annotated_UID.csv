@@ -1,0 +1,855 @@
+HGNC_name,UniProtID,Family
+1-phosphatidylinositol 3-phosphate 5-kinase,,Kinase
+125-dihydroxyvitamin D(3) 24-hydroxylase mitochondrial,,Cytochrome_P450
+2-hydroxyacylsphingosine 1-beta-galactosyltransferase,Q9NS00,UGT
+20S proteasome,P25786,Protease
+3-phosphoinositide-dependent protein kinase 1,O15530,Kinase
+35-cyclic phosphodiesterase,Q9NZC3,GPCR;PDE
+35-cyclic-AMP phosphodiesterase 4A,P27815,PDE
+35-cyclic-AMP phosphodiesterase 4B,Q07343,PDE
+35-cyclic-AMP phosphodiesterase 4C,Q08493,PDE
+35-cyclic-AMP phosphodiesterase 4D,Q08499,PDE
+35-cyclic-AMP phosphodiesterase 7B,Q9NP56,PDE
+5-AMP-activated protein kinase catalytic subunit alpha-1,Q13131,Kinase
+5-AMP-activated protein kinase catalytic subunit alpha-2,P54646,Kinase
+5-hydroxytryptamine receptor 1A,P08908,GPCR
+5-hydroxytryptamine receptor 1B,P28222,GPCR
+5-hydroxytryptamine receptor 1D,P28221,GPCR
+5-hydroxytryptamine receptor 2A,P28223,GPCR
+5-hydroxytryptamine receptor 2AMetabotropic glutamate receptor 2,P08908,GPCR
+5-hydroxytryptamine receptor 2C,P28335,GPCR
+5-hydroxytryptamine receptor 4,Q13639,GPCR
+5-hydroxytryptamine receptor 5A,P47898,GPCR
+5-hydroxytryptamine receptor 6,P50406,GPCR
+5-hydroxytryptamine receptor 7,P34969,GPCR
+6-phosphofructo-2-kinasefructose-26-bisphosphatase 2,Q99436,Kinase
+6-phosphofructo-2-kinasefructose-26-bisphosphatase 3,,Kinase
+7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase,Q9UNU6,Cytochrome_P450
+72 kDa type IV collagenase,P02462,Protease
+A disintegrin and metalloproteinase with thrombospondin motifs 4,O75173,Protease
+A disintegrin and metalloproteinase with thrombospondin motifs 5,Q9UNA0,Protease
+A disintegrin and metalloproteinase with thrombospondin motifs 7,Q9UKP4,Protease
+ALK tyrosine kinase receptor,Q9UM73,Kinase
+AMP-activated protein kinase (AMPK) alpha-1beta-1gamma-1,Q13131,Kinase
+AMP-activated protein kinase AMPK,Q13131,Kinase
+AMPK alpha2beta1gamma1,Q13131,Kinase
+AP2-associated protein kinase 1,Q2M2I8,Kinase
+ATP-dependent Clp protease proteolytic subunit mitochondrial,Q16740,Protease
+ATP-dependent translocase ABCB1,P49916,Transporter
+ATP-sensitive inward rectifier potassium channel 1,P48048,Ion Channel
+ATP-sensitive inward rectifier potassium channel 11,Q14654,Ion Channel
+ATRATRIP,,Kinase
+Activated CDC42 kinase 1,Q92918,Kinase
+Adenosine A2 receptor,,GPCR
+Adenosine kinase,P55263,Kinase
+Adenosine receptor A1,P30542,GPCR
+Adenosine receptor A2a,P29274,GPCR
+Adenosine receptor A2b,P29275,GPCR
+Adenosine receptor A3,P0DMS8,GPCR
+Adrenergic receptor alpha-1,A0A0B4J248,GPCR
+Adrenergic receptor alpha-2,,GPCR
+Adrenergic receptor beta,P07550,GPCR
+Alpha-1B adrenergic receptor,P35368,GPCR
+Alpha-2A adrenergic receptor,P08913,GPCR
+Alpha-2B adrenergic receptor,P18089,GPCR
+Alpha-2C adrenergic receptor,P18825,GPCR
+Amylin receptor AMY3 CALCRRAMP3,P14616,GPCR
+Androgen receptor,P10275,NHR
+Angiopoietin-1 receptor,Q02763,Kinase
+Angiotensin II receptor,P30556,GPCR
+Anoctamin-1,Q5XXA6,Ion Channel
+Apelin receptor,P35414,GPCR
+Apoptotic protease-activating factor 1,O14727,Protease
+Aromatase,P11511,Cytochrome_P450
+Atypical chemokine receptor 3,P25106,GPCR
+Aurora kinase A,O14965,Kinase
+Aurora kinase B,Q96GD4,Kinase
+Aurora kinase BInner centromere protein,Q9H7T9,Kinase
+Aurora kinase C,Q9UQB9,Kinase
+B1 bradykinin receptor,P46663,GPCR
+B2 bradykinin receptor,P30411,GPCR
+BDNFNT-3 growth factors receptor,Q9Y5R4,Kinase
+Baculoviral IAP repeat-containing protein 2,Q13490,E3 ligase
+Baculoviral IAP repeat-containing protein 2E3 ubiquitin-protein ligase XIAP,P98170,E3 ligase
+Baculoviral IAP repeat-containing protein 3,Q13489,E3 ligase
+BcrAbl fusion protein,P62861,Kinase
+Beta-1 adrenergic receptor,,GPCR
+Beta-2 adrenergic receptor,A0A0A0MT94,GPCR
+Beta-3 adrenergic receptor,Q03167,GPCR
+Beta-adrenergic receptor kinase 1,P25098,GPCR;Kinase
+Beta-secretase (BACE),P56817,Protease
+Beta-secretase 1,P56817,Protease
+Beta-secretase 2,Q9Y5Z0,Protease
+Bile acid receptor,Q8TDU6,NHR
+Bombesin receptor subtype-3,P32247,GPCR
+Broad substrate specificity ATP-binding cassette transporter ABCG2,Q03518,Transporter
+C-C chemokine receptor type 1,P32246,GPCR
+C-C chemokine receptor type 10,P46092,GPCR
+C-C chemokine receptor type 2,P41597,GPCR
+C-C chemokine receptor type 3,P51677,GPCR
+C-C chemokine receptor type 4,P51679,GPCR
+C-C chemokine receptor type 5,P51681,GPCR
+C-C chemokine receptor type 6,P51684,GPCR
+C-C chemokine receptor type 8,P51685,GPCR
+C-C chemokine receptor-like 2,O00421,GPCR
+C-X-C chemokine receptor type 1,P25024,GPCR
+C-X-C chemokine receptor type 2,P25025,GPCR
+C-X-C chemokine receptor type 3,P49682,GPCR
+C-X-C chemokine receptor type 4,P61073,GPCR
+C-X-C chemokine receptor type 5,P32302,GPCR
+C3a anaphylatoxin chemotactic receptor,Q16581,GPCR
+C5a anaphylatoxin chemotactic receptor 1,P21730,GPCR
+CDC7DBF4 (Cell division cycle 7-related protein kinaseActivator of S phase kinase),P63208,Kinase
+CDK12Cyclin K,,Kinase
+CDK1Cyclin A,P27539,Kinase
+CDK2Bovine cyclin A,O14976,Kinase
+CDK2Cyclin A2,Q96PE1,Kinase
+CDK3Cyclin E,P61221,Kinase
+CDK4Cyclin D3,Q9UJU5,Kinase
+CDK6cyclin D1,Q6QNK2,Kinase
+CDK6cyclin D3,Q9UJU5,Kinase
+CDK7Cyclin HMNAT1,,Kinase
+CDK9Cyclin K,,Kinase
+CDK9cyclin T1,Q8TDG2,Kinase
+CX3C chemokine receptor 1,P49238,GPCR
+CaM kinase II,Q9UQM7,Kinase
+Calcitonin gene-related peptide type 1 receptor,Q16602,GPCR
+Calcitonin-gene-related peptide receptor CALCRLRAMP1,P21462,GPCR
+Calcium release-activated calcium channel protein 1,Q96D31,GPCR;Ion Channel
+Calciumcalmodulin-dependent protein kinase kinase 1,Q8N5S9,Kinase
+Calciumcalmodulin-dependent protein kinase type 1D,Q8N5S9,Kinase
+Calciumcalmodulin-dependent protein kinase type II subunit alpha,Q9UQM7,Kinase
+Calciumcalmodulin-dependent protein kinase type II subunit delta,Q13557,Kinase
+Cannabinoid receptor 1,P21554,GPCR
+Cannabinoid receptor 2,P34972,GPCR
+Casein kinase 2,P19784,Kinase
+Casein kinase I,Q9H1E3,Kinase
+Casein kinase I isoform delta,P48730,Kinase
+Casein kinase I isoform epsilon,P49674,Kinase
+Casein kinase I isoform gamma-2,P78368,Kinase
+Casein kinase II,P68400,Kinase
+Casein kinase II alpha beta,P67870,Kinase
+Casein kinase II alphabeta,Q9H1E3,Kinase
+Casein kinase II subunit alpha,P68400,Kinase
+Cathepsin D,P07339,Protease
+Chemerin-like receptor 1,Q99788,GPCR
+Cholecystokinin receptor,P32238,GPCR
+Cholecystokinin receptor type A,P32238,GPCR
+Cholesterol 24-hydroxylase,Q9Y6A2,Cytochrome_P450
+Choline kinase alpha,P35790,Kinase
+Class 1 histone deacetylase,,Protease
+Collagenase,P03956,Protease
+Collagenase 3,P45452,Protease
+Cone cGMP-specific 35-cyclic phosphodiesterase subunit alpha,P51160,PDE
+Corticotropin-releasing factor receptor 1,P34998,GPCR
+Corticotropin-releasing factor receptor 2,Q13324,GPCR
+Cyclin-CCyclin-dependent kinase 19,Q56UN5,Kinase
+Cyclin-G-associated kinase,O14976,Kinase
+Cyclin-dependent kinase 1,P06493,Kinase
+Cyclin-dependent kinase 1 G1S-specific cyclin-D3,,Kinase
+Cyclin-dependent kinase 12,Q9NYV4,Kinase
+Cyclin-dependent kinase 13,Q14004,Kinase
+Cyclin-dependent kinase 14Cyclin-Y,P50613,Kinase
+Cyclin-dependent kinase 1cyclin B,P50613,Kinase
+Cyclin-dependent kinase 1cyclin B1,P50613,Kinase
+Cyclin-dependent kinase 2,P24941,Kinase
+Cyclin-dependent kinase 2cyclin A,P50613,Kinase
+Cyclin-dependent kinase 2cyclin E,P50613,Kinase
+Cyclin-dependent kinase 2cyclin E1,P50613,Kinase
+Cyclin-dependent kinase 4,P11802,Kinase
+Cyclin-dependent kinase 4cyclin D,P50613,Kinase
+Cyclin-dependent kinase 4cyclin D1,P50613,Kinase
+Cyclin-dependent kinase 5,Q00535,Kinase
+Cyclin-dependent kinase 5CDK5 activator 1,,Kinase
+Cyclin-dependent kinase 6,Q00534,Kinase
+Cyclin-dependent kinase 7,P50613,Kinase
+Cyclin-dependent kinase 7 cyclin H,P50613,Kinase
+Cyclin-dependent kinase 8,P49336,Kinase
+Cyclin-dependent kinase 819,P50613,Kinase
+Cyclin-dependent kinase 9,P50750,Kinase
+Cysteine protease ATG4B,Q5BKX5,Protease
+Cysteinyl leukotriene receptor,Q9Y271,GPCR
+Cysteinyl leukotriene receptor 1,Q9Y271,GPCR
+Cysteinyl leukotriene receptor 2,Q9NS75,GPCR
+Cystic fibrosis transmembrane conductance regulator,P13569,Ion Channel
+Cystineglutamate transporter,P55899,Transporter
+Cytochrome P450 11B1 mitochondrial,P16435,Cytochrome_P450
+Cytochrome P450 11B2 mitochondrial,P16435,Cytochrome_P450
+Cytochrome P450 1A,P16435,Cytochrome_P450
+Cytochrome P450 1A1,P16435,Cytochrome_P450
+Cytochrome P450 1A2,P16435,Cytochrome_P450
+Cytochrome P450 1B1,P16435,Cytochrome_P450
+Cytochrome P450 26A1,P16435,Cytochrome_P450
+Cytochrome P450 26B1,P16435,Cytochrome_P450
+Cytochrome P450 2A6,P16435,Cytochrome_P450
+Cytochrome P450 2B6,P16435,Cytochrome_P450
+Cytochrome P450 2C19,P16435,Cytochrome_P450
+Cytochrome P450 2C8,P16435,Cytochrome_P450
+Cytochrome P450 2D6,P16435,Cytochrome_P450
+Cytochrome P450 2J2,P16435,Cytochrome_P450
+Cytochrome P450 3A4,P16435,Cytochrome_P450
+Cytochrome P450 3A43A5,P16435,Cytochrome_P450
+Cytochrome P450 3A5,P16435,Cytochrome_P450
+Cytochrome P450 4A11,P16435,Cytochrome_P450
+Cytochrome P450 4F2,P16435,Cytochrome_P450
+Cytoplasmic tyrosine-protein kinase BMX,P51813,Kinase
+D(1A) dopamine receptor,Q4W4Y0,GPCR
+D(1B) dopamine receptor,Q4W4Y0,GPCR
+D(3) dopamine receptor,,GPCR
+D(4) dopamine receptor,,GPCR
+DCN1-like protein 1NEDD8-conjugating enzyme Ubc12,P61081,E3 ligase
+DNA-dependent protein kinase catalytic subunit,P78527,Kinase
+Death-associated protein kinase 1,P53355,Kinase
+Death-associated protein kinase 3,O43293,Kinase
+Delta-type opioid receptor,O14764,GPCR
+Deoxycytidine kinase,P27707,Kinase
+Dipeptidyl peptidase 1,Q9NY33,Protease
+Dipeptidyl peptidase 2,Q9NY33,Protease
+Dipeptidyl peptidase 4,P27487,Protease
+Dipeptidyl peptidase 8,Q6V1X1,Protease
+Dipeptidyl peptidase 89,Q9NY33,Protease
+Dipeptidyl peptidase 9,Q86TI2,Protease
+Discoidin domain-containing receptor 2,Q96PD2,Kinase
+Disintegrin and metalloproteinase domain-containing protein 10,P58304,Protease
+Disintegrin and metalloproteinase domain-containing protein 17,Q13094,Protease
+Dopamine receptor,Q4W4Y0,GPCR
+Dual 35-cyclic-AMP and -GMP phosphodiesterase 11A,Q6P4F7,PDE
+Dual specificity calciumcalmodulin-dependent 35-cyclic nucleotide phosphodiesterase 1A,Q13627,PDE
+Dual specificity calciumcalmodulin-dependent 35-cyclic nucleotide phosphodiesterase 1B,Q9Y463,PDE
+Dual specificity calciumcalmodulin-dependent 35-cyclic nucleotide phosphodiesterase 1C,P28562,PDE
+Dual specificity mitogen-activated protein kinase kinase 1,Q92918,Kinase
+Dual specificity mitogen-activated protein kinase kinase 2,Q12851,Kinase
+Dual specificity mitogen-activated protein kinase kinase 5,Q9Y4K4,Kinase
+Dual specificity mitogen-activated protein kinase kinase 7,O43318,Kinase
+Dual specificity mitogen-activated protein kinase kinase MEK12,Q92918,Kinase
+Dual specificity protein kinase CLK1,Q13627,Kinase
+Dual specificity protein kinase CLK2,Q13627,Kinase
+Dual specificity protein kinase CLK3,Q13627,Kinase
+Dual specificity protein kinase TTK,Q13627,Kinase
+Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Q13627,Kinase
+Dual specificity tyrosine-phosphorylation-regulated kinase 1B,Q9Y463,Kinase
+Dual specificity tyrosine-phosphorylation-regulated kinase 2,Q92630,Kinase
+E3 ubiquitin-protein ligase CBL-B,Q13049,E3 ligase
+E3 ubiquitin-protein ligase Mdm2,Q13049,E3 ligase
+E3 ubiquitin-protein ligase SMURF1,Q13049,E3 ligase
+E3 ubiquitin-protein ligase TRIM33,Q13049,E3 ligase
+E3 ubiquitin-protein ligase XIAP,Q13049,E3 ligase
+EML4-ALK,,Kinase
+Endothelin receptor type B,P24530,GPCR
+Endothelin-1 receptor,,GPCR
+Enteropeptidase,P98073,Protease
+Epidermal growth factor receptor,P00533,Kinase
+Epidermal growth factor receptor and ErbB2 (HER1 and HER2),P00533,Kinase
+Epithelial discoidin domain-containing receptor 1,Q8N8Z6,Kinase
+Equilibrative nucleoside transporter 1,Q99808,Transporter
+Estrogen receptor,P03372,GPCR;NHR
+Estrogen receptor beta,O95718,NHR
+Estrogen-related receptor gamma,P62508,NHR
+Eukaryotic elongation factor 2 kinase,O00418,Kinase
+Eukaryotic translation initiation factor 2-alpha kinase 1,Q9BQI3,Kinase
+Eukaryotic translation initiation factor 2-alpha kinase 3,Q9NZJ5,Kinase
+Excitatory amino acid transporter 1,P54687,Transporter
+Excitatory amino acid transporter 2,O15382,Transporter
+Excitatory amino acid transporter 3,Q14032,Transporter
+Extracellular calcium-sensing receptor,P41180,GPCR
+Ferroportin,Q9NP59,Transporter
+Fibroblast growth factor receptor,P11362,Kinase
+Fibroblast growth factor receptor 1,P11362,Kinase
+Fibroblast growth factor receptor 2,P21802,Kinase
+Fibroblast growth factor receptor 3,P22607,Kinase
+Fibroblast growth factor receptor 4,P22455,Kinase
+Focal adhesion kinase 1,,Kinase
+Follicle-stimulating hormone receptor,P23945,GPCR
+Free fatty acid receptor 1,O14842,GPCR
+Free fatty acid receptor 2,O15552,GPCR
+Free fatty acid receptor 4,Q5NUL3,GPCR
+G protein-activated inward rectifier potassium channel 4,Q8TDN1,Ion Channel
+G protein-coupled receptor 88,Q9GZN0,GPCR
+G protein-coupled receptor kinase 3,P35626,GPCR;Kinase
+G protein-coupled receptor kinase 6,P43250,GPCR;Kinase
+G-protein coupled bile acid receptor 1,Q8TDU6,GPCR
+G-protein coupled receptor 183,P32249,GPCR
+G-protein coupled receptor 35,Q9HC97,GPCR
+G-protein coupled receptor 4,P46093,GPCR
+G-protein coupled receptor 52,Q9Y2T5,GPCR
+G-protein coupled receptor 55,Q9Y2T6,GPCR
+G-protein coupled receptor 6,P46095,GPCR
+G-protein coupled receptor 84,Q9NQS5,GPCR
+GABA-A receptor anion channel,P21796,GPCR
+GABA-B receptor,Q9UBS5,GPCR
+GRIA1CACNG2,,Ion Channel
+GRIA1CACNG8,,Ion Channel
+Galanin receptor type 1,P47211,GPCR
+Galanin receptor type 2,O43603,GPCR
+Gastric inhibitory polypeptide receptor,P48546,GPCR
+Gastrin-releasing peptide receptor,P30550,GPCR
+Gastrincholecystokinin type B receptor,Q9UBS5,GPCR
+Glucagon receptor,P47871,GPCR
+Glucagon-like peptide 1 receptor,P43220,GPCR
+Glucocorticoid receptor,P04150,NHR
+Glucose-dependent insulinotropic receptor,P09681,GPCR
+Glutamate NMDA receptor,Q05586,Ion Channel
+Glutamate NMDA receptor GRIN1GRIN2A,Q05586,Ion Channel
+Glutamate NMDA receptor GRIN1GRIN2B,Q05586,Ion Channel
+Glutamate receptor 1,P42261,Ion Channel
+Glutamate receptor 2,P42262,Ion Channel
+Glutamate receptor 4,P48058,Ion Channel
+Glutamate receptor ionotropic AMPA,P42261,Ion Channel
+Glutamate receptor ionotropic NMDA 1,Q05586,Ion Channel
+Glutamate receptor ionotropic NMDA 2A,Q12879,Ion Channel
+Glutamate receptor ionotropic NMDA 2B,Q13224,Ion Channel
+Glutamate receptor ionotropic kainate 1,P39086,Ion Channel
+Glutathione S-transferase A1,P08263,GST
+Glutathione S-transferase P,P08263,GST
+Glutathione S-transferase omega-1,P78417,GST
+Glycogen synthase kinase-3,P49840,Kinase
+Glycogen synthase kinase-3 alpha,P49840,Kinase
+Glycogen synthase kinase-3 beta,P49841,Kinase
+Gonadotropin-releasing hormone receptor,P30968,GPCR
+Growth hormone secretagogue receptor type 1,Q92847,GPCR
+Hepatic sodiumbile acid cotransporter,Q14973,Transporter
+Hepatocyte growth factor receptor,P14210,Kinase
+High affinity 35-cyclic-AMP phosphodiesterase 7A,Q13946,PDE
+High affinity cAMP-specific and IBMX-insensitive 35-cyclic phosphodiesterase 8A,Q07343,PDE
+High affinity cAMP-specific and IBMX-insensitive 35-cyclic phosphodiesterase 8B,Q07343,PDE
+High affinity cGMP-specific 35-cyclic phosphodiesterase 9A,O76074,PDE
+High affinity nerve growth factor receptor,P08138,Kinase
+Histamine H1 receptor,P35367,GPCR
+Histamine H2 receptor,P25021,GPCR
+Histamine H3 receptor,Q9Y5N1,GPCR
+Histamine H4 receptor,Q9H3N8,GPCR
+Histone deacetylase,Q13547,Protease
+Histone deacetylase (HDAC1 and HDAC2),Q13547,Protease
+Histone deacetylase 1,Q13547,Protease
+Histone deacetylase 11,Q96DB2,Protease
+Histone deacetylase 2,Q92769,Protease
+Histone deacetylase 3,O15379,Protease
+Histone deacetylase 3Nuclear receptor corepressor 2 (HDAC3NCoR2),,Protease
+Histone deacetylase 4,P56524,Protease
+Histone deacetylase 5,Q9UQL6,Protease
+Histone deacetylase 6,Q9UBN7,Protease
+Histone deacetylase 7,Q8WUI4,Protease
+Histone deacetylase 8,Q9BY41,Protease
+Histone deacetylase 9,Q9UKV0,Protease
+Histone-lysine N-methyltransferase NSD2,Q9BV86,NHR
+Histone-lysine N-methyltransferase NSD3,Q9BV86,NHR
+Homeodomain-interacting protein kinase 1,Q86Z02,Kinase
+Homeodomain-interacting protein kinase 4,Q8NE63,Kinase
+Hydroxycarboxylic acid receptor 1,Q9BXC0,GPCR
+Hydroxycarboxylic acid receptor 2,Q8TDS4,GPCR
+Ileal sodiumbile acid cotransporter,Q14973,Transporter
+Inhibitor of NF-kappa-B kinase (IKK),,Kinase
+Inhibitor of nuclear factor kappa-B kinase subunit alpha,O14920,Kinase
+Inhibitor of nuclear factor kappa-B kinase subunit beta,O14920,Kinase
+Inhibitor of nuclear factor kappa-B kinase subunit epsilon,Q14164,Kinase
+Inositol hexakisphosphate kinase 1,Q92551,Kinase
+Inositol hexakisphosphate kinase 2,Q9UHH9,Kinase
+Inositol hexakisphosphate kinase 3,Q96PC2,Kinase
+Insulin receptor,P06213,GPCR;Kinase
+Insulin-like growth factor 1 receptor,P08069,Kinase
+Integrin-linked protein kinase,Q9H0C8,Kinase
+Interferon-induced double-stranded RNA-activated protein kinase,Q5TIA1,Kinase
+Interleukin-1 receptor-associated kinase 1,P51617,Kinase
+Interleukin-1 receptor-associated kinase 4,Q9NWZ3,Kinase
+Interleukin-8 receptors CXCR1CXCR2,Q9BY60,GPCR
+Intermediate conductance calcium-activated potassium channel protein 4,Q86W47,Ion Channel
+Interstitial collagenase,P03956,Protease
+JAK1TYK2,,Kinase
+JAK2JAK1,,Kinase
+JAK2TYK2,,Kinase
+JAK3JAK1,,Kinase
+Janus Kinase (JAK),P23458,Kinase
+Kallikrein-14,Q9P0G3,Protease
+Kallikrein-5,Q9Y337,Protease
+Kallikrein-6,Q92876,Protease
+Kallikrein-7,P49862,Protease
+Kappa-type opioid receptor,Q9NZT2,GPCR
+Keap1Nrf2,,E3 ligase
+Kelch-like ECH-associated protein 1,Q14145,E3 ligase
+KiSS-1 receptor,Q15726,GPCR
+Kinesin-1 heavy chain Tyrosine-protein kinase receptor RET,,Kinase
+Kir3.1Kir3.4,,Ion Channel
+LIM domain kinase 1,P53667,Kinase
+LIM domain kinase 2,P53671,Kinase
+Lanosterol 14-alpha demethylase,Q16850,Cytochrome_P450
+Leucine-rich repeat serinethreonine-protein kinase 2,Q5S007,Kinase
+Leukocyte tyrosine kinase receptor,P29376,Kinase
+Leukotriene B4 receptor,Q15722,GPCR
+Leukotriene B4 receptor 1,Q15722,GPCR
+Leukotriene B4 receptor 2,Q9NPC1,GPCR
+Liver X receptor,,NHR
+Lutropin-choriogonadotropic hormone receptor,Q02643,GPCR
+Lymphokine-activated killer T-cell-originated protein kinase,,Kinase
+Lysophosphatidic acid receptor 1,Q92633,GPCR
+Lysophosphatidic acid receptor 2,Q9HBW0,GPCR
+Lysophosphatidic acid receptor 3,Q9UBY5,GPCR
+Lysophosphatidic acid receptor 5,Q9H1C0,GPCR
+MAP kinase p38,,Kinase
+MAP kinase-activated protein kinase 2,Q12851,Kinase
+MAP kinase-activated protein kinase 3,Q8IVH8,Kinase
+MAP kinase-activated protein kinase 5,Q9Y4K4,Kinase
+MAP kinase-interacting serinethreonine-protein kinase 1,,Kinase
+MAP kinase-interacting serinethreonine-protein kinase 12,,Kinase
+MAP kinase-interacting serinethreonine-protein kinase 2,,Kinase
+MAPmicrotubule affinity-regulating kinase 3,,Kinase
+MAPmicrotubule affinity-regulating kinase 4,Q96L34,Kinase
+MDM2-MDMX,,E3 ligase
+METTL3METTL14,,Kinase
+Macrophage metalloelastase,,Protease
+Maststem cell growth factor receptor Kit,,Kinase
+Maternal embryonic leucine zipper kinase,Q14680,Kinase
+Matrilysin,P09237,Protease
+Matrix metalloproteinase-14,P50281,Protease
+Matrix metalloproteinase-17,Q9ULZ9,Protease
+Matrix metalloproteinase-9,P14780,Protease
+Melanin-concentrating hormone receptor 2,Q969V1,GPCR
+Melanocortin receptor 3,P41968,GPCR
+Melanocortin receptor 4,P32245,GPCR
+Melanocortin receptor 5,P33032,GPCR
+Melanocyte-stimulating hormone receptor,Q01726,GPCR
+Melatonin receptor,P48039,GPCR
+Melatonin receptor type 1A,P48039,GPCR
+Melatonin receptor type 1B,P49286,GPCR
+Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase,Q99640,Kinase
+Membrane-bound transcription factor site-1 protease,Q14703,Protease
+Metabotropic glutamate receptor 1,Q13255,GPCR
+Metabotropic glutamate receptor 2,Q14416,GPCR
+Metabotropic glutamate receptor 3,Q14832,GPCR
+Metabotropic glutamate receptor 4,Q14833,GPCR
+Metabotropic glutamate receptor 5,P41594,GPCR
+Metabotropic glutamate receptor 7,Q14831,GPCR
+Metabotropic glutamate receptor 8,O00222,GPCR
+Methionine aminopeptidase 2,Q9NZL9,Kinase;Protease
+Microtubule-associated protein 2,P11137,Kinase
+Microtubule-associated proteins 1A1B light chain 3B,Q9H492,Kinase
+Mineralocorticoid receptor,P08235,NHR
+Misshapen-like kinase 1,Q8N4C8,Kinase
+Mitogen-activated protein kinase 1,P28482,Kinase
+Mitogen-activated protein kinase 10,P53779,Kinase
+Mitogen-activated protein kinase 11,Q15759,Kinase
+Mitogen-activated protein kinase 12,P53778,Kinase
+Mitogen-activated protein kinase 13,O15264,Kinase
+Mitogen-activated protein kinase 14,Q16539,Kinase
+Mitogen-activated protein kinase 3,P27361,Kinase
+Mitogen-activated protein kinase 6,Q16659,Kinase
+Mitogen-activated protein kinase 7,Q13164,Kinase
+Mitogen-activated protein kinase 8,P45983,Kinase
+Mitogen-activated protein kinase 9,P45984,Kinase
+Mitogen-activated protein kinase ERK1ERK2,Q92918,Kinase
+Mitogen-activated protein kinase kinase kinase 10,Q02779,Kinase
+Mitogen-activated protein kinase kinase kinase 11,Q16584,Kinase
+Mitogen-activated protein kinase kinase kinase 12,Q12852,Kinase
+Mitogen-activated protein kinase kinase kinase 20,Q9NYL2,Kinase
+Mitogen-activated protein kinase kinase kinase 5,Q99683,Kinase
+Mitogen-activated protein kinase kinase kinase 6,O95382,Kinase
+Mitogen-activated protein kinase kinase kinase 7,O43318,Kinase
+Mitogen-activated protein kinase kinase kinase 8,P41279,Kinase
+Mitogen-activated protein kinase kinase kinase 9,P80192,Kinase
+Mitogen-activated protein kinase kinase kinase kinase 1,Q92918,Kinase
+Mitogen-activated protein kinase kinase kinase kinase 2,Q12851,Kinase
+Mitogen-activated protein kinase kinase kinase kinase 5,Q9Y4K4,Kinase
+Mitotic checkpoint serinethreonine-protein kinase BUB1,O43683,Kinase
+Monocarboxylate transporter 1,P53985,Transporter
+Monocarboxylate transporter 4,Q96DX8,Transporter
+Motilin receptor,O43193,GPCR
+Mu-type opioid receptor,Q9NZT2,GPCR
+Multidrug resistance-associated protein 1,P33527,Transporter
+Muscarinic acetylcholine receptor,Q7Z5B4,GPCR
+Muscarinic acetylcholine receptor M1,Q7Z5B4,GPCR
+Muscarinic acetylcholine receptor M2,Q7Z5B4,GPCR
+Muscarinic acetylcholine receptor M3,Q7Z5B4,GPCR
+Muscarinic acetylcholine receptor M5,Q7Z5B4,GPCR
+Myosin light chain kinase family member 4,Q86YV6,Kinase
+Myosin light chain kinase smooth muscle,,Kinase
+N-arachidonyl glycine receptor,P23415,GPCR
+N-formyl peptide receptor 2,P25090,GPCR
+N-formyl peptide receptor 3,P25089,GPCR
+N6-adenosine-methyltransferase catalytic subunit,Q86U44,Kinase
+NAD-dependent protein deacetylase sirtuin-1,Q15738,Protease
+NAD-dependent protein deacetylase sirtuin-2,Q15738,Protease
+NAD-dependent protein deacetylase sirtuin-3 mitochondrial,Q15738,Protease
+NAD-dependent protein deacylase sirtuin-5 mitochondrial,Q15738,Protease
+NPMALK (NucleophosminALK tyrosine kinase receptor),Q01973,Kinase
+NT-3 growth factor receptor,P11362,Kinase
+NUAK family SNF1-like kinase 1,O60285,Kinase
+Neuromedin-B receptor,P28336,GPCR
+Neuromedin-K receptor,P29371,GPCR
+Neuromedin-U receptor 1,Q9HB89,GPCR
+Neuromedin-U receptor 2,Q9GZQ4,GPCR
+Neuropeptide FF receptor 1,Q9GZQ6,GPCR
+Neuropeptide FF receptor 2,Q9Y5X5,GPCR
+Neuropeptide Y receptor type 1,P25929,GPCR
+Neuropeptide Y receptor type 2,P0DQD5,GPCR
+Neuropeptide Y receptor type 4,P25929,GPCR
+Neuropeptide Y receptor type 5,P25929,GPCR
+Neuropeptides BW receptor type 1,P48145,GPCR
+Neurotensin receptor type 1,P30989,GPCR
+Neurotensin receptor type 2,O95665,GPCR
+Neutrophil collagenase,P22894,Protease
+Nociceptin receptor,P41146,GPCR
+Non-receptor tyrosine-protein kinase TNK1,P18031,Kinase
+Non-receptor tyrosine-protein kinase TYK2,P18031,Kinase
+Nuclear receptor ROR-beta,Q92753,NHR
+Nuclear receptor ROR-gamma,P51449,NHR
+Nuclear receptor subfamily 1 group D member 1,P20393,NHR
+Nuclear receptor subfamily 1 group I member 2,O75469,NHR
+Nuclear receptor subfamily 1 group I member 3,Q14994,NHR
+Nuclear receptor subfamily 2 group C member 2,P49116,NHR
+Nuclear receptor subfamily 2 group C member 2TGF-beta-activated kinase 1 and MAP3K7-binding protein 1,P13056,Kinase;NHR
+Nuclear receptor subfamily 4 group A member 2,P43354,NHR
+Nuclear receptor subfamily 4immunitygroup A member 1,P20393,NHR
+Nucleic acid dioxygenase ALKBH1,Q96AH0,Kinase
+Opioid receptors mu  delta,P35372,GPCR
+Opioid receptors mu  kappa,P35372,GPCR
+Opioid receptors mukappadelta,Q9NZT2,GPCR
+Orexin receptor type 2,P50052,GPCR
+OrexinHypocretin receptor type 1,P14778,GPCR
+Oxoeicosanoid receptor 1,Q8TDS5,GPCR
+Oxysterols receptor LXR-alpha,P14616,NHR
+Oxysterols receptor LXR-beta,P14616,NHR
+Oxytocin receptor,P30559,GPCR
+P2X purinoceptor 2,Q9UBL9,Ion Channel
+P2X purinoceptor 3,P56373,Ion Channel
+P2X purinoceptor 4,Q99571,Ion Channel
+P2X purinoceptor 7,Q99572,Ion Channel
+P2X2P2X3 heterotrimeric receptor,P14616,Ion Channel
+P2Y purinoceptor 1,,GPCR
+P2Y purinoceptor 12,Q86VZ1,GPCR
+P2Y purinoceptor 14,Q86VZ1,GPCR
+P2Y purinoceptor 2,Q86VZ1,GPCR
+P2Y purinoceptor 4,Q86VZ1,GPCR
+P2Y purinoceptor 6,Q86VZ1,GPCR
+PI3-kinase class I,P07327,Kinase
+PI3-kinase p110-alphap85-alpha,P27986,Kinase
+PI3-kinase p110-deltap85-alpha,P27986,Kinase
+PI3K p110 betap85 alpha,Q96Q15,Kinase
+Pantothenate kinase 3,Q9H999,Kinase
+Parathyroid hormoneparathyroid hormone-related peptide receptor,Q03431,GPCR
+Peroxisome proliferator-activated receptor alpha,Q07869,NHR
+Peroxisome proliferator-activated receptor delta,Q03181,NHR
+Peroxisome proliferator-activated receptor gamma,P37231,NHR
+Phosphatidylinositol 3-kinase catalytic subunit type 3,Q8NEB9,Kinase
+Phosphatidylinositol 3-kinase regulatory subunit alpha,O00443,Kinase
+Phosphatidylinositol 3-kinase regulatory subunit beta,O00750,Kinase
+Phosphatidylinositol 4-kinase alpha,P42356,Kinase
+Phosphatidylinositol 4-kinase beta,Q9UBF8,Kinase
+Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha,O00443,Kinase
+Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta,O00750,Kinase
+Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma,O60331,Kinase
+Phosphatidylinositol 45-bisphosphate 3-kinase catalytic subunit alpha isoform,O00443,Kinase
+Phosphatidylinositol 45-bisphosphate 3-kinase catalytic subunit beta isoform,O00750,Kinase
+Phosphatidylinositol 45-bisphosphate 3-kinase catalytic subunit delta isoform,O00329,Kinase
+Phosphatidylinositol 45-bisphosphate 3-kinase catalytic subunit gamma isoform,O75747,Kinase
+Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,P48426,Kinase
+Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,Q8TBX8,Kinase
+Phosphodiesterase 1,Q9NZC3,PDE
+Phosphodiesterase 3,Q9NY59,PDE
+Phosphodiesterase 4,Q9NXE4,PDE
+Phosphodiesterase 6,Q6UWR7,GPCR;PDE
+Phosphodiesterase 7,,PDE
+Phosphodiesterase PDE3  PDE4,Q9NZC3,PDE
+Phosphoglycerate kinase 1,P00558,Kinase
+Phosphorylase kinase,P46020,Kinase
+Pituitary adenylate cyclase-activating polypeptide type I receptor,P18509,GPCR
+Platelet-activating factor receptor,P25105,GPCR
+Platelet-derived growth factor receptor,P16234,Kinase
+Platelet-derived growth factor receptor alpha,P16234,Kinase
+Platelet-derived growth factor receptor beta,P09619,Kinase
+Polyamine deacetylase HDAC10,Q6QHF9,Protease
+Potassium channel subfamily K member 3,O14649,Ion Channel
+Potassium channel subfamily K member 9,Q9NPC2,Ion Channel
+Potassium channel subfamily T member 1,Q5JUK3,Ion Channel
+Potassium voltage-gated channel subfamily A member 3,P22001,Ion Channel
+Potassium voltage-gated channel subfamily A member 5,P22460,Ion Channel
+Potassium voltage-gated channel subfamily KQT member 2,P16389,Ion Channel
+Potassiumsodium hyperpolarization-activated cyclic nucleotide-gated channel 1,O60741,Ion Channel
+Potassiumsodium hyperpolarization-activated cyclic nucleotide-gated channel 4,Q9Y3Q4,Ion Channel
+Probable G-protein coupled receptor 139,Q6DWJ6,GPCR
+Probable G-protein coupled receptor 142,Q7Z601,GPCR
+Probable G-protein coupled receptor 34,Q9UPC5,GPCR
+Progesterone receptor,P06401,NHR
+Prolactin-releasing peptide receptor,P49683,GPCR
+Prostacyclin receptor,P43119,GPCR
+Prostaglandin D2 receptor,Q13258,GPCR
+Prostaglandin D2 receptor 2,Q9Y5Y4,GPCR
+Prostaglandin E2 receptor EP1 subtype,P34995,GPCR
+Prostaglandin E2 receptor EP2 subtype,P43116,GPCR
+Prostaglandin E2 receptor EP3 subtype,P43115,GPCR
+Prostaglandin E2 receptor EP4 subtype,P35408,GPCR
+Prostaglandin F2-alpha receptor,Q13258,GPCR
+Proteasome subunit beta type-8,P20618,Protease
+Proteasome subunit beta type-9,P20618,Protease
+Protein Mdm4,O15151,E3 ligase
+Protein cereblonDNA damage-binding protein 1,Q16531,E3 ligase
+Protein cereblonDNA damage-binding protein 1Bromodomain-containing protein 4,Q16531,E3 ligase
+Protein kinase C (PKC),P05129,Kinase
+Protein kinase C alpha type,P10644,Kinase
+Protein kinase C beta type,P31321,Kinase
+Protein kinase C delta type,Q05655,Kinase
+Protein kinase C epsilon type,Q02156,Kinase
+Protein kinase C gamma type,P05129,Kinase
+Protein kinase C iota type,P41743,Kinase
+Protein kinase C theta type,Q04759,Kinase
+Protein kinase C zeta type,Q05513,Kinase
+Protein smoothened,Q8NHV5,GPCR
+Protein-tyrosine kinase 2-beta,Q14289,Kinase
+Protein-tyrosine kinase 6,Q13882,Kinase
+Proteinase-activated receptor 1,P55085,GPCR
+Proteinase-activated receptor 2,P55085,GPCR
+Proteinase-activated receptor 4,Q96RI0,GPCR
+Proto-oncogene tyrosine-protein kinase ROS,P08922,Kinase
+Proto-oncogene tyrosine-protein kinase Src,P07947,Kinase
+Proto-oncogene tyrosine-protein kinase receptor Ret,P07949,Kinase
+Puromycin-sensitive aminopeptidase,P55786,Protease
+Putative P2Y purinoceptor 10,O00398,GPCR
+Pyroglutamylated RF-amide peptide receptor,Q96P65,GPCR
+Pyruvate dehydrogenase (acetyl-transferring) kinase isozyme 1 mitochondrial,Q15118,Kinase
+Pyruvate dehydrogenase (acetyl-transferring) kinase isozyme 2 mitochondrial,Q15119,Kinase
+Pyruvate dehydrogenase (acetyl-transferring) kinase isozyme 3 mitochondrial,Q15120,Kinase
+Pyruvate dehydrogenase (acetyl-transferring) kinase isozyme 4 mitochondrial,Q16654,Kinase
+Pyruvate dehydrogenase kinase,Q15118,Kinase
+RAC-alpha serinethreonine-protein kinase,Q8IY84,Kinase
+RAC-beta serinethreonine-protein kinase,Q8IY84,Kinase
+RAC-gamma serinethreonine-protein kinase,Q8IY84,Kinase
+RAF proto-oncogene serinethreonine-protein kinase,P10398,Kinase
+RNA demethylase ALKBH5,Q6P6C2,Kinase
+Ras and Rab interactor 1Tyrosine-protein kinase ABL1,Q13671,Kinase
+Receptor tyrosine-protein kinase erbB-2,Q99640,Kinase
+Receptor tyrosine-protein kinase erbB-3,Q99640,Kinase
+Receptor tyrosine-protein kinase erbB-4,Q99640,Kinase
+Receptor-interacting serinethreonine-protein kinase 1,O43353,Kinase
+Receptor-interacting serinethreonine-protein kinase 2,O43353,Kinase
+Receptor-interacting serinethreonine-protein kinase 3,Q9Y572,Kinase
+Receptor-type tyrosine-protein kinase FLT3,Q14761,Kinase
+Reduced folate transporter,P41440,Transporter
+Relaxin-3 receptor 1,Q9NSD7,GPCR
+Relaxin-3 receptor 2,Q8TDU9,GPCR
+Retinoic acid receptor RXR-alpha,Q9C091,NHR
+Retinoic acid receptor RXR-alphaoxysterols receptor LXR-alpha,Q9C091,NHR
+Retinoic acid receptor RXR-alphaoxysterols receptor LXR-beta,Q9C091,NHR
+Retinoic acid receptor RXR-beta,Q9C091,NHR
+Retinoic acid receptor RXR-gamma,Q9C091,NHR
+Retinoic acid receptor alpha,P10276,NHR
+Retinoic acid receptor beta,P10826,NHR
+Retinoic acid receptor gamma,P13631,NHR
+Retinoid X receptor,P19793,NHR
+Rho-associated protein kinase,Q13464,Kinase
+Rho-associated protein kinase 1,,Kinase
+Rhodopsin kinase GRK1,P08100,GPCR;Kinase
+Ribosomal protein S6 kinase alpha-2,Q15418,Kinase
+Ribosomal protein S6 kinase alpha-3,Q15418,Kinase
+Ribosomal protein S6 kinase alpha-5,Q15418,Kinase
+Ribosomal protein S6 kinase alpha-6,Q15418,Kinase
+Ribosomal protein S6 kinase beta-1,,Kinase
+Ribosomal protein S6 kinase beta-2,Q15418,Kinase
+SRSF protein kinase 1,Q96SB4,Kinase
+SRSF protein kinase 2,P78362,Kinase
+STE20-like serinethreonine-protein kinase,Q9H2G2,Kinase
+STE20SPS1-related proline-alanine-rich protein kinase,Q92918,Kinase
+Serine protease 1,P07477,Protease
+Serine protease HTRA1,P48740,Protease
+Serinethreonine-protein kinase 17A,Q02040,Kinase
+Serinethreonine-protein kinase 24,Q8IY84,Kinase
+Serinethreonine-protein kinase 26,Q8IY84,Kinase
+Serinethreonine-protein kinase 3,Q8IY84,Kinase
+Serinethreonine-protein kinase 33,Q8IY84,Kinase
+Serinethreonine-protein kinase 4,Q8IY84,Kinase
+Serinethreonine-protein kinase A-Raf,P10398,Kinase
+Serinethreonine-protein kinase AKT,P31749,Kinase
+Serinethreonine-protein kinase ATR,Q9NY74,Kinase
+Serinethreonine-protein kinase B-raf,P15056,Kinase
+Serinethreonine-protein kinase Chk1,Q8IY84,Kinase
+Serinethreonine-protein kinase Chk2,Q8IY84,Kinase
+Serinethreonine-protein kinase D1,Q8IY84,Kinase
+Serinethreonine-protein kinase D2,Q8IY84,Kinase
+Serinethreonine-protein kinase DCLK1,Q8IY84,Kinase
+Serinethreonine-protein kinase LATS,Q8IY84,Kinase
+Serinethreonine-protein kinase LATS1,Q8IY84,Kinase
+Serinethreonine-protein kinase LATS2,Q8IY84,Kinase
+Serinethreonine-protein kinase MARK2,Q8IY84,Kinase
+Serinethreonine-protein kinase MRCK alpha,Q8IY84,Kinase
+Serinethreonine-protein kinase N1,Q16512,Kinase
+Serinethreonine-protein kinase Nek1,Q8IY84,Kinase
+Serinethreonine-protein kinase Nek2,Q8IY84,Kinase
+Serinethreonine-protein kinase PAK 1,Q8IY84,Kinase
+Serinethreonine-protein kinase PAK 2,Q8IY84,Kinase
+Serinethreonine-protein kinase PAK 3,Q8IY84,Kinase
+Serinethreonine-protein kinase PAK 4,Q8IY84,Kinase
+Serinethreonine-protein kinase PLK1,Q8IY84,Kinase
+Serinethreonine-protein kinase PLK3,Q8IY84,Kinase
+Serinethreonine-protein kinase PLK4,Q8IY84,Kinase
+Serinethreonine-protein kinase RAF and Dual specificity mitogen-activated protein kinase kinase 1 (RafMEK),Q92918,Kinase
+Serinethreonine-protein kinase SIK1,Q8IY84,Kinase
+Serinethreonine-protein kinase SIK2,Q8IY84,Kinase
+Serinethreonine-protein kinase SIK3,Q8IY84,Kinase
+Serinethreonine-protein kinase SMG1,Q96Q15,Kinase
+Serinethreonine-protein kinase Sgk1,Q8IY84,Kinase
+Serinethreonine-protein kinase TAO2,Q8IY84,Kinase
+Serinethreonine-protein kinase TAO3,Q8IY84,Kinase
+Serinethreonine-protein kinase TBK1,Q8IY84,Kinase
+Serinethreonine-protein kinase TNNI3K,Q8IY84,Kinase
+Serinethreonine-protein kinase ULK1,Q8IY84,Kinase
+Serinethreonine-protein kinase ULK2,Q8IY84,Kinase
+Serinethreonine-protein kinase WNK1,Q8IY84,Kinase
+Serinethreonine-protein kinase haspin,Q8IY84,Kinase
+Serinethreonine-protein kinase mTOR,Q8IY84,Kinase
+Serinethreonine-protein kinase pim-1,P11309,Kinase
+Serinethreonine-protein kinase pim-2,Q9P1W9,Kinase
+Serinethreonine-protein kinase pim-3,Q86V86,Kinase
+Serinethreonine-protein kinase tousled-like 2,,Kinase
+Serotonin (5-HT) receptor,,GPCR
+Serotonin 2 (5-HT2) receptor,,GPCR
+Short transient receptor potential channel 3,Q7Z443,GPCR;Ion Channel
+Short transient receptor potential channel 5,,GPCR;Ion Channel
+Short transient receptor potential channel 6,,GPCR;Ion Channel
+Sigma non-opioid intracellular receptor 1,Q99720,GPCR
+Signal peptide peptidase-like 2A,Q8TCT8,Protease
+Small conductance calcium-activated potassium channel protein 3,Q9NPA1,Ion Channel
+Sodium channel alpha subunits brain (Types I II III),Q9NY46,Ion Channel
+Sodium channel protein type 1 subunit alpha,P35498,Ion Channel
+Sodium channel protein type 1 subunit alphabeta-1beta-2,P35498,Ion Channel
+Sodium channel protein type 10 subunit alpha,Q9Y5Y9,Ion Channel
+Sodium channel protein type 2 subunit alpha,Q99250,Ion Channel
+Sodium channel protein type 3 subunit alpha,Q9NY46,Ion Channel
+Sodium channel protein type 4 subunit alpha,P35499,Ion Channel
+Sodium channel protein type 5 subunit alpha,Q14524,Ion Channel
+Sodium channel protein type 5 subunit alphabeta-1beta-2,Q14524,Ion Channel
+Sodium channel protein type 7 subunit alpha,Q01118,Ion Channel
+Sodium channel protein type 8 subunit alpha,Q9UQD0,Ion Channel
+Sodium channel protein type 9 subunit alpha,Q15858,Ion Channel
+Sodium channel protein type 9 subunit alphabeta-1beta-2,Q15858,Ion Channel
+Sodium- and chloride-dependent GABA transporter 1,P30531,Transporter
+Sodium- and chloride-dependent glycine transporter 1,Q9Y345,Transporter
+Sodium- and chloride-dependent glycine transporter 2,Q9Y345,Transporter
+Sodium-dependent dopamine transporter,Q01959,Transporter
+Sodium-dependent serotonin transporter,Q9Y289,Transporter
+Sodiumglucose cotransporter 1,,Transporter
+Sodiumglucose cotransporter 2,,Transporter
+Sodiumhydrogen exchanger 1,Q8TC92,Transporter
+Sodiumhydrogen exchanger 3,,Transporter
+Solute carrier family 2 facilitated glucose transporter member 1,P11166,Transporter
+Solute carrier family 2 facilitated glucose transporter member 2,P11168,Transporter
+Solute carrier family 2 facilitated glucose transporter member 3,,Transporter
+Solute carrier family 2 facilitated glucose transporter member 4,P14672,Transporter
+Solute carrier family 22 member 12,Q96S37,Transporter
+Solute carrier family 22 member 2,O15244,Transporter
+Solute carrier organic anion transporter family member 1B1,Q9Y6L6,Transporter
+Somatostatin receptor,P30872,GPCR
+Somatostatin receptor type 1,P30872,GPCR
+Somatostatin receptor type 2,P30874,GPCR
+Somatostatin receptor type 3,P32745,GPCR
+Somatostatin receptor type 4,P31391,GPCR
+Somatostatin receptor type 5,P35346,GPCR
+Sphingosine 1-phosphate receptor 1,P21453,GPCR
+Sphingosine 1-phosphate receptor 2,O95136,GPCR
+Sphingosine 1-phosphate receptor 3,Q99500,GPCR
+Sphingosine 1-phosphate receptor 4,O95977,GPCR
+Sphingosine 1-phosphate receptor 5,Q9H228,GPCR
+Sphingosine kinase 1,Q9NYA1,Kinase
+Sphingosine kinase 2,Q9NRA0,Kinase
+Steroid 17-alpha-hydroxylase1720 lyase,P14060,Cytochrome_P450
+Steroid 21-hydroxylase,,Cytochrome_P450
+Steroid hormone receptor ERR1,Q9HD15,NHR
+Steroid hormone receptor ERR2,Q9HD15,NHR
+Stromelysin-1,P08254,Protease
+Stromelysin-2,P09238,Protease
+Substance-K receptor,P21452,GPCR
+Substance-P receptor,P25103,GPCR
+Sulfonylurea receptor 2 Kir6.2,Q01974,Ion Channel;Transporter
+Sulfonylurea receptors K-ATP channels,Q96IX5,Ion Channel;Transporter
+Suppressor of tumorigenicity 14 protein,Q9HBF5,Protease
+TAK1TAB1,,Kinase
+TRAF2 and NCK-interacting protein kinase,Q9UKE5,Kinase
+Taste receptor type 2 member 14,Q9NYV8,GPCR
+Taste receptor type 2 member 8,Q9NYW2,GPCR
+Tau-tubulin kinase 1,Q5TCY1,Kinase
+Tau-tubulin kinase 2,Q6IQ55,Kinase
+Testis-specific serinethreonine-protein kinase 1,,Kinase
+Thromboxane A2 receptor,P21731,GPCR
+Thymidine kinase 2 mitochondrial,O00142,Kinase
+Thymidine kinase cytosolic,P04183,Kinase
+Thyroid hormone receptor,P10827,NHR
+Thyroid hormone receptor alpha,P10827,NHR
+Thyroid hormone receptor beta,P10828,NHR
+Trace amine-associated receptor 1,Q96RJ0,GPCR
+Transcription intermediary factor 1-alpha,Q8TE12,E3 ligase
+Transient receptor potential cation channel subfamily A member 1,O75762,Ion Channel
+Transient receptor potential cation channel subfamily M member 2,O94759,Ion Channel
+Transient receptor potential cation channel subfamily M member 5,Q9NZQ8,GPCR;Ion Channel
+Transient receptor potential cation channel subfamily M member 8,Q7Z2W7,Ion Channel
+Transient receptor potential cation channel subfamily V member 1,Q8NER1,Ion Channel
+Transient receptor potential cation channel subfamily V member 4,Q9HBA0,Ion Channel
+Transient receptor potential cation channel subfamily V member 6,Q9H1D0,Ion Channel
+Transmembrane protease serine 2,O15393,Protease
+Trypsin,P55085,Protease
+Tumour suppressor p53oncoprotein Mdm2,Q00987,E3 ligase
+Tumour suppressor protein p53Mdm4,Q13098,E3 ligase
+Type-1 angiotensin II receptor,P30556,GPCR
+Type-2 angiotensin II receptor,P50052,GPCR
+Tyrosine-protein kinase ABL,P00519,Kinase
+Tyrosine-protein kinase ABL1,Q99640,Kinase
+Tyrosine-protein kinase ABL2,Q99640,Kinase
+Tyrosine-protein kinase BTK,Q99640,Kinase
+Tyrosine-protein kinase CSK,Q99640,Kinase
+Tyrosine-protein kinase Fer,P16591,Kinase
+Tyrosine-protein kinase FesFps,Q99640,Kinase
+Tyrosine-protein kinase Fyn,P42685,Kinase
+Tyrosine-protein kinase HCK,P08631,Kinase
+Tyrosine-protein kinase ITKTSK,Q99640,Kinase
+Tyrosine-protein kinase JAK1,Q99640,Kinase
+Tyrosine-protein kinase JAK2,Q99640,Kinase
+Tyrosine-protein kinase JAK3,P52333,Kinase
+Tyrosine-protein kinase Lck,P06239,Kinase
+Tyrosine-protein kinase Mer,Q12866,Kinase
+Tyrosine-protein kinase SYK,Q99640,Kinase
+Tyrosine-protein kinase Srms,Q99640,Kinase
+Tyrosine-protein kinase TXK,P42681,Kinase
+Tyrosine-protein kinase Tec,P42680,Kinase
+Tyrosine-protein kinase Yes,P07947,Kinase
+Tyrosine-protein kinase ZAP-70,P43403,Kinase
+Tyrosine-protein kinase receptor TYRO3,Q06418,Kinase
+Tyrosine-protein kinase receptor UFO,Q99640,Kinase
+Ubiquitin carboxyl-terminal hydrolase 1,,Protease
+Ubiquitin carboxyl-terminal hydrolase 19,,Protease
+Ubiquitin carboxyl-terminal hydrolase 1WD repeat-containing protein 48,,Protease
+Ubiquitin carboxyl-terminal hydrolase 21,,Protease
+Ubiquitin carboxyl-terminal hydrolase 7,,Protease
+Ubiquitin carboxyl-terminal hydrolase 8,,Protease
+Ubiquitin carboxyl-terminal hydrolase 9X,,Protease
+Uracil nucleotidecysteinyl leukotriene receptor,Q15722,GPCR
+Urotensin-2 receptor,Q9UKP6,GPCR
+Vascular endothelial growth factor receptor,P15692,Kinase
+Vascular endothelial growth factor receptor 1,P15692,Kinase
+Vascular endothelial growth factor receptor 2,P15692,Kinase
+Vascular endothelial growth factor receptor 3,P15692,Kinase
+Vasoactive intestinal polypeptide receptor 1,P32241,GPCR
+Vasoactive intestinal polypeptide receptor 2,P41587,GPCR
+Vasopressin V1 receptor,P37288,GPCR
+Vasopressin V1a receptor,P37288,GPCR
+Vasopressin V1b receptor,P37288,GPCR
+Vasopressin V2 receptor,P37288,GPCR
+Vitamin D3 receptor,P11473,NHR
+Voltage-dependent L-type calcium channel subunit alpha-1C,Q13936,Ion Channel
+Voltage-dependent N-type calcium channel subunit alpha-1B,Q00975,Ion Channel
+Voltage-dependent T-type calcium channel subunit alpha-1G,O43497,Ion Channel
+Voltage-dependent T-type calcium channel subunit alpha-1H,O95180,Ion Channel
+Voltage-dependent T-type calcium channel subunit alpha-1I,Q9P0X4,Ion Channel
+Voltage-gated L-type calcium channel,O00555,Ion Channel
+Voltage-gated calcium channel,Q9P0X4,Ion Channel
+Voltage-gated inwardly rectifying potassium channel KCNH2,Q09470,Ion Channel
+Voltage-gated potassium channel IKs KCNQ1(Kv7.1)KCNE1(MinK),P15382,Ion Channel
+Voltage-gated potassium channel KQT KCNQ2(Kv7.2)KCNQ3(Kv7.3),O43525,Ion Channel
+Wee1-like protein kinase,Q92918,Kinase
+c-Jun N-terminal kinase JNK,Q9H3Y6,Kinase
+cAMP and cAMP-inhibited cGMP 35-cyclic phosphodiesterase 10A,Q9Y233,PDE
+cAMP-dependent protein kinase (PKA),P61925,Kinase
+cAMP-dependent protein kinase catalytic subunit alpha,P51817,Kinase
+cGMP-dependent 35-cyclic phosphodiesterase,Q13976,PDE
+cGMP-dependent protein kinase 1,Q13976,Kinase
+cGMP-inhibited 35-cyclic phosphodiesterase 3A,Q14432,PDE
+cGMP-inhibited 35-cyclic phosphodiesterase 3B,Q13370,PDE
+cGMP-specific 35-cyclic phosphodiesterase,O76074,PDE
+fMet-Leu-Phe receptor,P21462,GPCR
+fMet-Leu-Phe receptor 12,P21462,GPCR
+mTORC1,Q15382,Kinase
+mTORC2,Q86TY3,Kinase
