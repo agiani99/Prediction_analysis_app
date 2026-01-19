@@ -271,4 +271,4 @@ Built with:
 
 **Version**: 1.0.0  
 **Last Updated**: January 2025  
-**Author**: Claude (Anthropic)
+**Author**: Andrea Zaliani
