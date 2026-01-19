@@ -270,5 +270,5 @@ Built with:
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: January 2025  
+**Last Updated**: January 2026  
 **Author**: Andrea Zaliani
